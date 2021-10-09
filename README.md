@@ -3,7 +3,7 @@
 
 
 <p>
-  &nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=ahmed-al-farouq&show_icons=true&theme=dark&locale=en" alt="ahmed-al-farouq" />
+  &nbsp;<img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=ahmed-al-farouq&show_icons=true&theme=dark&locale=en" alt="ahmed-al-farouq" />
 </p>
 
 <p>
