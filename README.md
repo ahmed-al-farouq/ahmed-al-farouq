@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al-Farouq</h1>
 <h3 align="center">A Full-Stack developer in love with ReactJS, Ruby, and Ruby On Rails.</h3>
 
+
+<p>
+  &nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=ahmed-al-farouq&show_icons=true&theme=dark&locale=en" alt="ahmed-al-farouq" />
+</p>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-al-farouq&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmed-al-farouq" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-al-farouq&show_icons=true&theme=dark&locale=en" alt="ahmed-al-farouq" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-al-farouq&theme=dark" alt="ahmed-al-farouq" />
