@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al-Farouq</h1>
-<h3 align="center">A Full-Stack developer in love with ReactJS, Ruby, and Ruby On Rails.</h3>
+<h3 align="center">A Front-End developer in love with ReactJS</h3>
 
 
 <p>
