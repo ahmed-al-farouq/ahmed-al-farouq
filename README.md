@@ -25,43 +25,53 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/ahmed_al_farouq" target="blank"
+    <a href="https://ahmedalfarouq.com/" target="_blank"
+    ><img
+      align="center"
+      src="https://img.icons8.com/offices/30/000000/geography.png"
+      alt="My Website"
+      height="30"
+      width="30"
+      title="My Website"
+  /></a>
+  <a href="https://twitter.com/ahmed_al_farouq" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="ahmed_al_farouq"
+      alt="Twitter"
       height="30"
       width="40"
+      title="twitter"
   /></a>
-  <a href="https://linkedin.com/in/ahmed-al-farouq" target="blank"
+  <a href="https://linkedin.com/in/ahmed-al-farouq" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="ahmed-al-farouq"
+      alt="LinkedIn"
       height="30"
       width="40"
   /></a>
-  <a href="https://medium.com/@ahmed-al-farouq" target="blank"
+  <a href="https://medium.com/@ahmed-al-farouq" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-      alt="@ahmed-al-farouq"
+      alt="Medium"
       height="30"
       width="40"
   /></a>
-  <a href="https://www.youtube.com/c/رحلةشباب" target="blank"
+  <a href="https://www.youtube.com/c/رحلةشباب" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="رحلةشباب"
+      alt="Youtube"
       height="30"
       width="40"
   /></a>
-  <a href="https://www.hackerrank.com/ahmed_alfarouq" target="blank">
+  <a href="https://www.hackerrank.com/ahmed_alfarouq" target="_blank">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="ahmed_alfarouq"
+      alt="Hacker Ranck"
       height="30"
       width="40"
     />
